@@ -21,7 +21,7 @@ A full-stack User Management application built using the MERN stack (MongoDB, Ex
 - HTML
 - CSS
 - JavaScript
-- Bootstrap (if used)
+
 
 ### Backend
 - Node.js
